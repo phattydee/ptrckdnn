@@ -1,15 +1,15 @@
 module.exports = {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "name": "Patrick Dunn",
+    "email": "pd@pdgrp.ca",
+    "phoneForTel": "709-746-2625",
+    "phoneFormatted": "(709) 746-2625",
     "address": {
-        "lineOne": "First Address Line",
+        "lineOne": "38 Forest Rd",
         "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
-        "country": "US",
+        "city": "St. John's",
+        "state": "NL",
+        "zip": "A1C3E5",
+        "country": "CANADA",
         "mapLink": "https://maps.app.goo.gl/TEdS5KoLC9ZcULuQ6"
     },
     "socials": {
@@ -17,5 +17,5 @@ module.exports = {
         "instagram": "https://www.instagram.com/",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-    "domain": "https://www.example.com"
+    "domain": "https://pdgrp.ca"
 };
